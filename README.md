@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FWJK35
-- 👀 I’m interested in coding, video games, and running
+- 👀 I’m interested in coding, video games, and running (cross country and code)
 - 🌱 I’m currently learning Python3 and Java
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 You can reach me at calvinrodrigue@gmail.com
