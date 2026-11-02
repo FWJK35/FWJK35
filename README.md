@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, video games, and running (cross country and code)
 - 🌱 I’m currently learning Python3, Java, and C++
 - 💞️ I’m looking to collaborate on nothing right now
-- 📫 You can reach me at calvinrodrigue@gmail.com
+- 📫 You cannot reach me 😝
 
 <!---
 FWJK35/FWJK35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
